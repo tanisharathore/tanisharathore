@@ -89,4 +89,19 @@
 </p>
        <br/>
 <hr></hr>
+
+<table>
+      <thead>
+            <tr>
+                  <th>
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanisharathore&show_icons=true&locale=en&layout=compact" alt="tanisharathore" /> 
+                </th>
+                <th>
+                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanisharathore&show_icons=true&locale=en" alt="tanisharathore" />
+                </th>
+            </tr>
+      </thead>
+</table>
+
+
 <p align="center">🌟 Be yourself; everyone else is already taken." — Oscar Wildet</p>
