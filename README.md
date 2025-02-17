@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **rathoretanisha420@gmail.com**
 
+- 📄 Know about my experiences [https://tanisharathore.github.io/My_Portfolio/]
+
 - 🎯 Fun fact: I compile ideas into reality faster than I respond to calls!**
 
 <br/>
