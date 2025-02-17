@@ -10,9 +10,9 @@
 
 <br/>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **C++, DSA, DBMS, Web-Development, AIML, OS**
 
-- 💬 Ask me about **C++, DSA, Web**
+- 💬 Ask me about **C++, DSA, AIML**
 
 - 📫 How to reach me **rathoretanisha420@gmail.com**
 
