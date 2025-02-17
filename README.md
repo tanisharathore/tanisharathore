@@ -1,4 +1,8 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG43N2YzeWE1am92bWN2ejI5cDl3NmE3YzdweG8wMzNtajV1dTZieiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.webp" />
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG43N2YzeWE1am92bWN2ejI5cDl3NmE3YzdweG8wMzNtajV1dTZieiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.webp" 
+         style="width: 150px; height: 150px;" />
+</div>
+
 
 <br/>
 <h1 align="center">Hi 👋, I'm Tanisha Rathore</h1>
@@ -7,8 +11,6 @@
 <br/>
 
 - 🌱 I’m currently learning **Web Development**
-
-- 📝 I regularly write articles on ([Technology](https://www.geeksforgeeks.org/user/anshika_d1/contributions/))
 
 - 💬 Ask me about **C++, DSA, Web**
 
@@ -22,7 +24,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/tanisha-rathore-702b62258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanisha" height="30" width="40" /></a>
 
-<a href="https://codolio.com/profile/tanisha_10" target="blank"><img align="center" src="https://www.google.com/imgres?q=codolio%20icon%20.svg&imgurl=https%3A%2F%2Fd3hr337ydpgtsa.cloudfront.net%2Fassets%2FBanner.png&imgrefurl=https%3A%2F%2Fcodolio.com%2F&docid=aJ45avWjspQXwM&tbnid=DER70WAUyw3djM&vet=12ahUKEwiOtqjyn8uLAxUsdvUHHcTbPOAQM3oECBcQAA..i&w=4800&h=2520&hcb=2&ved=2ahUKEwiOtqjyn8uLAxUsdvUHHcTbPOAQM3oECBcQAA" alt="tanisha_10" height="30" width="40" /></a>
+<!--<a href="https://codolio.com/profile/tanisha_10" target="blank"><img align="center" src="https://www.google.com/imgres?q=codolio%20icon%20.svg&imgurl=https%3A%2F%2Fd3hr337ydpgtsa.cloudfront.net%2Fassets%2FBanner.png&imgrefurl=https%3A%2F%2Fcodolio.com%2F&docid=aJ45avWjspQXwM&tbnid=DER70WAUyw3djM&vet=12ahUKEwiOtqjyn8uLAxUsdvUHHcTbPOAQM3oECBcQAA..i&w=4800&h=2520&hcb=2&ved=2ahUKEwiOtqjyn8uLAxUsdvUHHcTbPOAQM3oECBcQAA" alt="tanisha_10" height="30" width="40" /></a>-->
 
 <a href="https://leetcode.com/u/Tanisha_10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Tanisha_10" height="30" width="40" /></a>
 
