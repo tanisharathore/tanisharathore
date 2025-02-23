@@ -1,7 +1,10 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<p align="center">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG43N2YzeWE1am92bWN2ejI5cDl3NmE3YzdweG8wMzNtajV1dTZieiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.webp" height="400" width="700" style="display: block; margin: auto;">
+</p>
+<!-- <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG43N2YzeWE1am92bWN2ejI5cDl3NmE3YzdweG8wMzNtajV1dTZieiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.webp" 
          style="width: 150px; height: 150px;" />
-</div>
+</div> -->
 
 
 <br/>
@@ -31,6 +34,10 @@
 <a href="https://leetcode.com/u/Tanisha_10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Tanisha_10" height="30" width="40" /></a>
 
 <a href="https://www.geeksforgeeks.org/user/rathoretafl8n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rathoretafl8n" height="30" width="40" /></a>
+
+<a href="https://www.codechef.com/users/tanirath_10" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="30px" style="vertical-align: middle; border-radius: 10;">
+</a>
 
 <a href="https://www.hackerrank.com/profile/rathoretanisha41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rathoretanisha41" height="30" width="40" /></a>
 </p>
