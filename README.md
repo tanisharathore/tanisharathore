@@ -107,12 +107,12 @@
       <thead>
             <tr>
                   <th>
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanisharathore&show_icons=true&locale=en&layout=compact" alt="tanisharathore" /> 
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanisharathore&show_icons=true&locale=en&layout=compact" alt="tanisharathore" />
                 </th>
-                <th>
                 <th>
                 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tanisharathore" alt="tanisharathore" />
                 </th>
+                <th>
                     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanisharathore&show_icons=true&locale=en" alt="tanisharathore" />
                 </th>
                 
