@@ -114,8 +114,7 @@
                 </th>
                 <th>
                     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanisharathore&show_icons=true&locale=en" alt="tanisharathore" />
-                </th>
-                
+                </th> 
             </tr>
       </thead>
 </table>
